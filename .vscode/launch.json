@@ -1,0 +1,452 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo15.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo14.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo14.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo14.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo14.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo14.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo13.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo13.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo13.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo13.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "TestCustomException",
+            "request": "launch",
+            "mainClass": "Program.CustomException.TestCustomException",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo12.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo12.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo12.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo12.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo12.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo11.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo11.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo11.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo11.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo11.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo10.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo10.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo10.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo10.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo10.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo9.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo9.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo9.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo9.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo9.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo8.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo8.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo8.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo8.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo8.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo7.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo7.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo7.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo7.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "IXI_pattern",
+            "request": "launch",
+            "mainClass": "Program.Pattern.IXI_pattern",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo7.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo6.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo6.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo6.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo6.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Abcd",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo6.Abcd",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo6.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo3.Question2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo3.Question1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "StarUsingWhile",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo2.StarUsingWhile",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo2.Question4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "NoOfStar",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo1.NoOfStar",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo5.Question5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo5.Question4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo5.Question3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo5.Question2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo5.Question1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question5",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo4.Question5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question4",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo4.Question4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question3",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo4.Question3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question2",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo4.Question2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "Program.AssignmentNo4.Question1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Run with AppMap",
+            "request": "launch",
+            "mainClass": "",
+            "vmArgs": "-javaagent:${userHome}\\.appmap\\lib\\java\\appmap.jar"
+        }
+    ]
+}
