@@ -2,6 +2,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestThread",
+            "request": "launch",
+            "mainClass": "src.Multithreading.CasesInThread.TestThread",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo15.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo15.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo22",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo15.QuestionNo22",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo15.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "RunnableTest",
+            "request": "launch",
+            "mainClass": "src.Multithreading.RunnableTest",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "ThreadTest",
+            "request": "launch",
+            "mainClass": "src.Multithreading.ThreadTest",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid",
+            "request": "launch",
+            "mainClass": "src.Pattern.Pyramid",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid3D",
+            "request": "launch",
+            "mainClass": "src.Pattern.Pyramid3D",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
             "name": "QuestionNo1",
             "request": "launch",
             "mainClass": "Program.AssignmentNo15.QuestionNo1",
