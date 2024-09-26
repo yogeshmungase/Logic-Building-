@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LicenceDemo",
+            "request": "launch",
+            "mainClass": "src.Multithreading.MethodsInMulti.LicenceDemo",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "TestYelid",
+            "request": "launch",
+            "mainClass": "src.Multithreading.MethodsInMulti.TestYelid",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "TestSleep",
+            "request": "launch",
+            "mainClass": "src.Multithreading.MethodsInMulti.TestSleep",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "TestPriority",
+            "request": "launch",
+            "mainClass": "src.Multithreading.ThreadPriorities.TestPriority",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "TestDaemon",
+            "request": "launch",
+            "mainClass": "src.Multithreading.DaemonThread.TestDaemon",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "src.Multithreading.Test",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "ThreadNameDemo",
+            "request": "launch",
+            "mainClass": "src.Multithreading.MethodsInMulti.ThreadNameDemo",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "ThreadNameDemo",
+            "request": "launch",
+            "mainClass": "ThreadNameDemo",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
             "name": "TestThread",
             "request": "launch",
             "mainClass": "src.Multithreading.CasesInThread.TestThread",
