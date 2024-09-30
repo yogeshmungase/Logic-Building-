@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestStaticMethod",
+            "request": "launch",
+            "mainClass": "src.Java8Features.StaticMethodsInInterfaces.TestStaticMethod",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "TestDefaultMethod",
+            "request": "launch",
+            "mainClass": "src.Java8Features.DefaultMethodsInInterfaces.TestDefaultMethod",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
             "name": "LicenceDemo",
             "request": "launch",
             "mainClass": "src.Multithreading.MethodsInMulti.LicenceDemo",
