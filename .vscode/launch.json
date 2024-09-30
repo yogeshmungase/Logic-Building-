@@ -2,6 +2,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "src.AssignementNo17.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "src.AssignementNo17.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "src.AssignementNo17.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo16.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo16.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo16.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo16.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo16.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo15.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
             "name": "TestStaticMethod",
             "request": "launch",
             "mainClass": "src.Java8Features.StaticMethodsInInterfaces.TestStaticMethod",
