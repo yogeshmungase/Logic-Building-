@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "src.Java8Features.FunctionalInterface.Test",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
             "name": "QuestionNo3",
             "request": "launch",
             "mainClass": "src.AssignementNo17.QuestionNo3",
