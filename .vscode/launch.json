@@ -1,5 +1,55 @@
 {
     "configurations": [
+        
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo18.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo18.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo3",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo18.QuestionNo3",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo2",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo18.QuestionNo2",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo1",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo18.QuestionNo1",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo5",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo17.QuestionNo5",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
+            "name": "QuestionNo4",
+            "request": "launch",
+            "mainClass": "src.AssignmentNo17.QuestionNo4",
+            "projectName": "Logic building_d9e42a6c"
+        },
         {
             "type": "java",
             "name": "Test",

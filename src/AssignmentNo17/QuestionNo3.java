@@ -1,4 +1,4 @@
-package src.AssignementNo17;
+package src.AssignmentNo17;
 // Accept N numbers from user check whether that numbers contains 11 in it or not. 
 
 import java.util.Scanner;
