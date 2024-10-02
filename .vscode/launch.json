@@ -1,6 +1,12 @@
 {
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "src.Java8Features.LambdaExpressions.TestClass",
+            "projectName": "Logic building_d9e42a6c"
+        },
         {
             "type": "java",
             "name": "QuestionNo5",
