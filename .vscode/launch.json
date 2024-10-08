@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Methodrefernce",
+            "request": "launch",
+            "mainClass": "src.Java8Features.MethodRefernces.Methodrefernce",
+            "projectName": "Logic building_d9e42a6c"
+        },
+        {
+            "type": "java",
             "name": "QuestionNo5",
             "request": "launch",
             "mainClass": "src.AssignmentNo19.QuestionNo5",
